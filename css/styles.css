@@ -1,5 +1,5 @@
 body{
-  background-color: #84bfc7;
+  background-color: #d2e69c;
   /* height:100px; // does not work  */
 }
 hr{
@@ -11,4 +11,11 @@ hr{
   /* border:2px; */
   height:0px;
   width:5%;
+}
+h1{
+  color:#4b778d;
+  /* background-color:pink; */
+}
+h3{
+  color:#28b5b5;
 }
